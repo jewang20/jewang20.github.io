@@ -1,0 +1,33 @@
+		h1{
+			color: purple;
+		}
+
+		#landing {
+			text-align:center;
+			padding-top:100px;
+			margin-bottom:200px;
+		}
+
+		section{
+			margin-top:20px;
+			padding-left:50px;
+		}
+
+		body{
+			margin:auto;
+			max-width: 1000px;
+			font-family: 'Gamja Flower', cursive;
+			font-size: 30px;
+		}
+
+		#div >p {
+			margin-left:50px;
+			margin-right:50px
+			margin-top:50px;
+
+		}
+
+		img {
+			border-radius:50%;
+		}
+
